@@ -1206,8 +1206,6 @@ http://183.207.248.71/gitv/live1/G_CETV-1/G_CETV-1
 http://111.63.117.13:6060/030000001000/G_CETV-4/G_CETV-4.m3u8
 #EXTINF:-1 tvg-id="cna" group-title="My Favorite" tvg-logo="https://i.imgur.com/xWglicB.png",CNA International HD
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-id="cnn" group-title="My Favorite" tvg-logo="https://i.imgur.com/KacMcVa.png",CNN International HD
-http://stream.cvmtv.site/CNN?token=live
 #EXTINF:-1 tvg-id="discoveryhd" group-title="My Favorite" tvg-logo="https://i.imgur.com/f0ZYQbB.png",Discovery Channel SEA
 http://sg.tinchuanchuaanh.com:8080/DISCOVERY_HD/index.m3u8
 #EXTINF:-1 tvg-id="discoveryasiahd" group-title="My Favorite" tvg-logo="https://i.imgur.com/lD13h2Y.png",Discovery Asia
