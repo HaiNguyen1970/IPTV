@@ -1,2 +1,4 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 HD 
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 http://play.steeltv.org:8080/get.php?username=LAtinoA100&password=Wy894ENVXXhhh56&type=m3u
